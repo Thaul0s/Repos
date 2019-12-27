@@ -13,6 +13,7 @@ namespace ConsoleApp1
             Console.WriteLine("Hello");
             Console.WriteLine("Evo ti ga na");
             Console.WriteLine("OOOOOOOOOOJ NOOONEN");
+            double angele;
         }
     }
 }
